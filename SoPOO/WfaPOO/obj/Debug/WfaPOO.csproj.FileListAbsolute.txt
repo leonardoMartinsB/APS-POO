@@ -1,0 +1,10 @@
+C:\Users\x\source\repos\SoPOO\WfaPOO\bin\Debug\WfaPOO.exe.config
+C:\Users\x\source\repos\SoPOO\WfaPOO\bin\Debug\WfaPOO.exe
+C:\Users\x\source\repos\SoPOO\WfaPOO\bin\Debug\WfaPOO.pdb
+C:\Users\x\source\repos\SoPOO\WfaPOO\obj\Debug\WfaPOO.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\SoPOO\WfaPOO\obj\Debug\WfaPOO.Form1.resources
+C:\Users\x\source\repos\SoPOO\WfaPOO\obj\Debug\WfaPOO.Properties.Resources.resources
+C:\Users\x\source\repos\SoPOO\WfaPOO\obj\Debug\WfaPOO.csproj.GenerateResource.cache
+C:\Users\x\source\repos\SoPOO\WfaPOO\obj\Debug\WfaPOO.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\SoPOO\WfaPOO\obj\Debug\WfaPOO.exe
+C:\Users\x\source\repos\SoPOO\WfaPOO\obj\Debug\WfaPOO.pdb
